@@ -1,0 +1,6 @@
+/home/alisa/Projects/ConsoleApp/ConsoleApp/bin/Debug/ConsoleApp.exe
+/home/alisa/Projects/ConsoleApp/ConsoleApp/bin/Debug/ConsoleApp.pdb
+/home/alisa/Projects/ConsoleApp/ConsoleApp/obj/x86/Debug/ConsoleApp.csprojAssemblyReference.cache
+/home/alisa/Projects/ConsoleApp/ConsoleApp/obj/x86/Debug/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/alisa/Projects/ConsoleApp/ConsoleApp/obj/x86/Debug/ConsoleApp.exe
+/home/alisa/Projects/ConsoleApp/ConsoleApp/obj/x86/Debug/ConsoleApp.pdb
